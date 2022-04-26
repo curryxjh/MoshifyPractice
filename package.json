@@ -1,0 +1,23 @@
+{
+  "name": "moshifypractice",
+  "version": "1.0.0",
+  "description": "HTML and CSS exercise.\r This is an exercise from mosh's HTML and CSS course.\r The exercise will design a page that looks like this.\r ![avatar](./images/standard.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curryxjh/MoshifyPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/curryxjh/MoshifyPractice/issues"
+  },
+  "homepage": "https://github.com/curryxjh/MoshifyPractice#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
